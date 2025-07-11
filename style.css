@@ -512,3 +512,11 @@ marquee img {
 .swiper-3d{
     perspective:1px;
 }
+.section7{
+    background-color: white;
+}
+.companies-logo img{
+    width: 100%;
+    height: auto;   
+
+}
